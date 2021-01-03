@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Greengables!"
 ---
-_This is the bees knees_
+_This is Josh's Homepage_
 Use the left arrow to go back!
